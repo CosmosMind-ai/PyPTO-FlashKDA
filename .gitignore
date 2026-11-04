@@ -1,0 +1,6 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+flashkda_*/
+.pytest_cache/
