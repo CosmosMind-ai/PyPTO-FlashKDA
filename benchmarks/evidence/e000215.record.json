@@ -1,0 +1,30 @@
+{
+ "eid": "e000215",
+ "campaign": "c4",
+ "round": 16,
+ "wave": 2,
+ "cid": "r016-w2-readiness-measured-two-unit-pack-integration",
+ "level": "decision",
+ "family": "chunk16_per_head_readiness_measured_pack_integration",
+ "family_sha": "f47f2d7b5c7c",
+ "params": {
+  "PREP_WORK_UNITS_PER_BLOCK": 2,
+  "MIN_PACKED_CHUNKS": 16,
+  "MIN_PREP_WORK_UNITS": 16
+ },
+ "source": "explicit",
+ "design": {
+  "artifact": "effde9e00373da4f"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "gain_pct": 67.8007,
+ "score": -0.3219930847122746,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 20,
+  "latency_us": 52.15,
+  "latency_min_us": 11.19,
+  "geomean_speedup_ascendc": 0.8903
+ }
+}

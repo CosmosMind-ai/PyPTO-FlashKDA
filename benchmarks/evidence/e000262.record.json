@@ -1,0 +1,27 @@
+{
+ "eid": "e000262",
+ "campaign": "c12",
+ "round": 49,
+ "wave": 1,
+ "cid": "r049-w1-tiny-cast-endpoint-vector",
+ "level": "decision",
+ "family": "tiny_cast_endpoint_packet_fp32",
+ "family_sha": "4a261a0388a1",
+ "params": {
+  "publication_form": 1
+ },
+ "source": "promoted",
+ "design": {
+  "artifact": "1ca75728c8bebbec"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "gain_pct": 93.1726,
+ "score": -0.06827396918470463,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 20,
+  "latency_us": 153.23,
+  "latency_min_us": 14.6
+ }
+}

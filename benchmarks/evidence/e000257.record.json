@@ -1,0 +1,26 @@
+{
+ "eid": "e000257",
+ "campaign": "c17",
+ "round": 66,
+ "wave": 2,
+ "cid": "r066-norm4-preparation",
+ "level": "decision",
+ "family": "chunk16_adjoint_norm4_preparation",
+ "family_sha": "ed75d85ce4f0",
+ "params": {},
+ "source": "promoted",
+ "design": {
+  "artifact": "927c9ac03a651792"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "gain_pct": 67.3129,
+ "score": -0.3268708323042726,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 20,
+  "latency_us": 52.94,
+  "latency_min_us": 11.39,
+  "geomean_speedup_ascendc": 0.8771
+ }
+}
