@@ -1,5 +1,13 @@
 # PyPTO-FlashKDA
 
+**English** | [中文](README.zh-CN.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Platform](https://img.shields.io/badge/Platform-Ascend%20910C-blue)
+![CANN](https://img.shields.io/badge/CANN-%E2%89%A5%209.0-orange)
+
+> Part of the **CosmosMind PyPTO kernel series** for Ascend — all kernels driven by [MetaRSI](https://www.cosmosmind.ai/research/metarsi-v1).
+
 Kimi Delta Attention (KDA) kernels for **Ascend 910C**, written in
 [PyPTO](https://github.com/hw-native-sys/pypto) — the Ascend-native counterpart of
 [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA) (CUDA/CUTLASS, SM90+).
